@@ -8,9 +8,8 @@
 - WE RECOMMEND GOING TO DESKTOP FIRST BEFORE DOING ANYTHING ELSE
 - You don't have to have an account (yet)
 #### Download
-- Download from http://camposlabs.ueuo.com/products/cakeos
+- Download from http://cakeos.ueuo.com/install/
 #### Credits
 - Current Maintainers:
 - D-Snowy
 - Maysun Campos
-- Developed At Campos Labs
