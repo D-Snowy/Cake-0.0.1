@@ -11,5 +11,5 @@ echo "go to calculator.sh for calculator"
 echo ""
 echo "also I never learned your name what is is?"
 read name
-echo "hello " $name
+echo "Hello There " $name
 echo "Copyright Cake 2022 All Rights Reserved"
