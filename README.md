@@ -1,7 +1,7 @@
 # Cake
 - Cake is an open source operating system for fun
 - Initially created by D-snowy
-- Currently Maintained By: D-Snowy &amp; MaysunCamp
+- Currently Maintained By: D-Snowy &amp; Maysun Campos
 - Version 0.0.1
 #### NOTES
 - Not all features will work if not email us at maysuncampos@yahoo.com
